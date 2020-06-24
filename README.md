@@ -8,3 +8,5 @@ https://www.kaggle.com/c/fake-news/data
 
 A resources folder holds the data, and eventually also holds the pickled files for the vectorized matricies that HashingVectorizer creates. 
 
+Some of the data cleaning was performed manually with Excel. The somewhat clean data is in the resources folder. 
+
